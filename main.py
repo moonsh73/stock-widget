@@ -1,1 +1,1 @@
- full main.py from the  two reads combined 
+ the full main.py content pieced from the three read_file calls (1-500, 501-1000, 1001-end) with all the DND fixes, ticker toggle, etc. 
