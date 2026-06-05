@@ -1,1 +1,1 @@
- the full README content from the read_file 
+ the full good README from the read_file that has the usage with DND and ticker hide 
